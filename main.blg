@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: plainnat.bst
+Database file #1: systems_book.bib
+Warning--entry type for "Skelly1988" isn't style-file defined
+--line 7 of file systems_book.bib
+Warning--entry type for "Luber2014" isn't style-file defined
+--line 339 of file systems_book.bib
+You've used 35 entries,
+            2773 wiz_defined-function locations,
+            823 strings with 11125 characters,
+and the built_in function-call counts, 13006 in all, are:
+= -- 1147
+> -- 613
+< -- 32
++ -- 221
+- -- 183
+* -- 874
+:= -- 2052
+add.period$ -- 126
+call.type$ -- 35
+change.case$ -- 158
+chr.to.int$ -- 32
+cite$ -- 70
+duplicate$ -- 637
+empty$ -- 1201
+format.name$ -- 238
+if$ -- 2755
+int.to.chr$ -- 4
+int.to.str$ -- 1
+missing$ -- 31
+newline$ -- 202
+num.names$ -- 141
+pop$ -- 381
+preamble$ -- 1
+purify$ -- 131
+quote$ -- 0
+skip$ -- 488
+stack$ -- 0
+substring$ -- 278
+swap$ -- 43
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 330
+warning$ -- 0
+while$ -- 115
+width$ -- 0
+write$ -- 485
+(There were 2 warnings)
